@@ -2,15 +2,15 @@
 
 This is Paytm home page clone made using html5 and tailwind css.
 
-## Preview
+## Preview of different screen sizes
 
 1. Desktop size
    ![desktop size](./ss/desktop.png)
 
 2. tablet size
    ![tablet size](./ss/tablet.png)
-   
-3. mobile size 
+
+3. mobile size
    ![mobile size](./ss/mobile%20size.png)
 
 ## Author
@@ -23,9 +23,9 @@ This is Paytm home page clone made using html5 and tailwind css.
 
 ## What I have learnt in this project
 
-1. This project help me to understand different classes and utilities of tailwind css and how to make the responsive ui which works on all types of devices. Also learnt the mobile first approach.
+1. This project helped me to understand different classes and utilities of tailwind css and how to make the responsive ui which works on all types of devices. Also learnt the mobile first approach.
 
-2. learn to use different tailwind blocks for building website faster.
+2. learnt to use different tailwind blocks for building website faster.
 
 ## Honest Time to finish the project
 
